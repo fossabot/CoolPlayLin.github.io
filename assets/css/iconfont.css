@@ -1,8 +1,8 @@
 @font-face {
-  font-family: "iconfont"; /* Project id 3434521 */
-  src: url('https://fastly.jsdelivr.net/gh/CoolPlayLin/CoolPlayLin.github.io/assets/fonts/iconfont.woff2?t=1654218650574') format('woff2'),
-       url('https://fastly.jsdelivr.net/gh/CoolPlayLin/CoolPlayLin.github.io/assets/fonts/iconfont.woff?t=1654218650574') format('woff'),
-       url('https://fastly.jsdelivr.net/gh/CoolPlayLin/CoolPlayLin.github.io/assets/fonts/iconfont.ttf?t=1654218650574') format('truetype');
+  font-family: 'iconfont';  /* Project id 3434521 */
+  src: url('//at.alicdn.com/t/font_3434521_n2o7fpmva9m.woff2?t=1654218633338') format('woff2'),
+       url('//at.alicdn.com/t/font_3434521_n2o7fpmva9m.woff?t=1654218633338') format('woff'),
+       url('//at.alicdn.com/t/font_3434521_n2o7fpmva9m.ttf?t=1654218633338') format('truetype');
 }
 
 .iconfont {
