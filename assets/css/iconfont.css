@@ -13,10 +13,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-csdn:before {
-  content: "\e600";
-}
-
 .icon-angle-up:before {
   content: "\e60d";
 }
@@ -40,4 +36,3 @@
 .icon-gitee:before {
   content: "\e64f";
 }
-
