@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3434521 */
-  src: url('iconfont.woff2?t=1653799883612') format('woff2'),
-       url('iconfont.woff?t=1653799883612') format('woff'),
-       url('iconfont.ttf?t=1653799883612') format('truetype');
+  src: url('https://fastly.jsdelivr.net/gh/CoolPlayLin/CoolPlayLin.github.io/assets/fonts/iconfont.woff2?t=1653799883612') format('woff2'),
+       url('https://fastly.jsdelivr.net/gh/CoolPlayLin/CoolPlayLin.github.io/assets/fonts/iconfont.woff?t=1653799883612') format('woff'),
+       url('https://fastly.jsdelivr.net/gh/CoolPlayLin/CoolPlayLin.github.io/assets/fonts/iconfont.ttf?t=1653799883612') format('truetype');
 }
 
 .iconfont {
