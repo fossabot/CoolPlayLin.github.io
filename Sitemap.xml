@@ -6,7 +6,7 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 <url>
-      <loc>https://start.c155.top/</loc>
+      <loc>https://start.c155.top/index.html</loc>
 </url>
 <url>
       <loc>https://start.c155.top/Games/index.html</loc>
@@ -24,9 +24,6 @@
       <loc>https://start.c155.top/Games/4/index.html</loc>
 </url>
 <url>
-      <loc>https://start.c155.top/ddos.html</loc>
-</url>
-<url>
       <loc>https://start.c155.top/404.html</loc>
 </url>
 <url>
@@ -36,7 +33,9 @@
       <loc>https://start.c155.top/Others/GA/index.html</loc>
 </url>
 <url>
-      <loc>https://c155.top/</loc>
+      <loc>https://c155.top/index.html</loc>
 </url>
-
+<url>
+      <loc>https://blog.c155.top/index.html</loc>
+</url>
 </urlset>
